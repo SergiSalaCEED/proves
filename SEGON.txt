@@ -1,6 +1,1 @@
-Fem el segon arxiu.
-
-Ara hem fet modificacions sobre el segon arxiu.
-
-Ara hem fet modificacions sobre el segon arxiu.
-
+Aquest segon es diferent de l'anterior perque he obert una ramificació anomenada Testing.
