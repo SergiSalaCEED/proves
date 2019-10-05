@@ -1,1 +1,3 @@
 Aquest segon es diferent de l'anterior perque he obert una ramificació anomenada Testing.
+
+Verificat queda que funciona y intenatrem fusionar.
